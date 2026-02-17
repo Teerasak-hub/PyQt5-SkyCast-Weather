@@ -16,7 +16,7 @@ SkyCast is a sleek, dark-themed weather forecasting tool designed with **Python*
 * **API:** [OpenWeatherMap](https://openweathermap.org/)
 
 ## 📸 Preview
-*(วิอย่าลืมแคปรูปแอปตอนรันสวยๆ มาใส่ตรงนี้ด้วยนะ!)*
+
 
 ## ⚙️ How to Setup
 1. Clone the repo:
